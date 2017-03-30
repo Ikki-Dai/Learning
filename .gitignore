@@ -1,0 +1,6 @@
+/target/
+/.project
+/.settings/
+/.mvn/
+/demo.log
+/src/test/*
